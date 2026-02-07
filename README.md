@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:282C34,50:E5C07B,100:E06C75&height=200&section=header&text=&fontSize=0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:282C34,50:E5C07B,100:E06C75&height=180&section=header&text=sid&fontSize=50&fontColor=ABB2BF&fontAlignY=55&animation=twinkling" />
 
 <div align="center">
 
-<a href="https://heysid.io"><img src="https://img.shields.io/badge/%20-heysid.io-E5C07B?style=for-the-badge&logo=safari&logoColor=282C34&labelColor=282C34" /></a>
-<a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/%20-@itssidhere-E5C07B?style=for-the-badge&logo=x&logoColor=282C34&labelColor=282C34" /></a>
-<a href="https://linkedin.com/in/itssidhere"><img src="https://img.shields.io/badge/%20-linkedin-E5C07B?style=for-the-badge&logo=linkedin&logoColor=282C34&labelColor=282C34" /></a>
+<a href="https://heysid.io"><img src="https://img.shields.io/badge/heysid.io-E5C07B?style=for-the-badge&logo=safari&logoColor=282C34" /></a>&nbsp;
+<a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/@itssidhere-E5C07B?style=for-the-badge&logo=x&logoColor=282C34" /></a>&nbsp;
+<a href="https://linkedin.com/in/itssidhere"><img src="https://img.shields.io/badge/linkedin-E5C07B?style=for-the-badge&logo=linkedin&logoColor=282C34" /></a>
 
 <br><br>
 
