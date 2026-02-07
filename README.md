@@ -25,9 +25,5 @@
 
 <br>
 
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itssidhere&bg_color=282C34&color=ABB2BF&line=E5C07B&point=E06C75&area=true&area_color=E5C07B&hide_border=true&custom_title=%20" />
-</div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E06C75,50:E5C07B,100:282C34&height=120&section=footer" />
