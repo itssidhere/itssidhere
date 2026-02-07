@@ -102,18 +102,10 @@
 </tr>
 </table>
 
-<br>
 
 <div align="center">
 
-<img width="390" src="https://readme-stats-kwybxzckk-itssidhere.vercel.app/api?username=itssidhere&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true&rank_icon=github" alt="stats" />&nbsp;&nbsp;
-<img width="390" src="https://readme-stats-kwybxzckk-itssidhere.vercel.app/api/top-langs/?username=itssidhere&layout=compact&theme=onedark&hide_border=true" alt="languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=itssidhere&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
-
-<br><br>
+<br>
 
 ```
 don't speak unless you can improve the silence
