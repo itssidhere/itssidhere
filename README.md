@@ -25,9 +25,9 @@ I build product-first software and small, focused companies. I like systems that
 | | |
 |---|---|
 | [**MOHALLA**](https://cluxid.com) | watch movies & shows with friends in sync |
-| [**APPLYZAP**](https://applyzap.co) | ai auto-fill for linkedin job apps |
+| [**APPLYZAP**](https://applyzap.co) | ai auto-fill for linkedin job apps · *coming soon* |
 | [**BOOKTRAIL**](https://booktrail.co) | public reading timeline for creators |
-| [**LOGTALON**](https://logtalon.com) | local-first ai log analyzer · oss |
+| [**LOGTALON**](https://logtalon.com) | local-first ai log analyzer · oss · *coming soon* |
 
 ---
 
