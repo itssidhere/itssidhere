@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<a href="https://heysid.io">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=800&color=E5C07B&center=true&vCenter=true&repeat=true&width=500&height=60&lines=hey%2C+i'm+sid;building+mohalla+%F0%9F%8E%AC;building+applyzap+%E2%9A%A1;building+booktrail+%F0%9F%93%96;building+logtalon+%F0%9F%94%8D" alt="Typing SVG" />
-</a>
-
-<br>
-
 <a href="https://heysid.io"><img src="https://img.shields.io/badge/%20-heysid.io-E5C07B?style=for-the-badge&logo=safari&logoColor=282C34&labelColor=282C34" /></a>
 <a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/%20-@itssidhere-E5C07B?style=for-the-badge&logo=x&logoColor=282C34&labelColor=282C34" /></a>
 <a href="https://linkedin.com/in/itssidhere"><img src="https://img.shields.io/badge/%20-linkedin-E5C07B?style=for-the-badge&logo=linkedin&logoColor=282C34&labelColor=282C34" /></a>
