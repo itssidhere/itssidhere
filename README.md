@@ -16,6 +16,12 @@
 
 <br>
 
+```
+solopreneur · databases & distributed systems · powerlifting · philosophy · divine in dota 2
+```
+
+<br>
+
 <div align="center">
 <table>
 <tr><td align="center" width="50%"><br><a href="https://cluxid.com"><img src="https://img.shields.io/badge/%F0%9F%8E%AC_MOHALLA-E06C75?style=for-the-badge&logoColor=white&labelColor=282C34" /></a><br><br><sub>watch movies & shows with friends in sync</sub><br><br><a href="https://cluxid.com"><img src="https://img.shields.io/badge/cluxid.com_%E2%86%97-282C34?style=flat-square&labelColor=E06C75" /></a><br><br></td><td align="center" width="50%"><br><a href="https://applyzap.co"><img src="https://img.shields.io/badge/%E2%9A%A1_APPLYZAP-E5C07B?style=for-the-badge&logoColor=white&labelColor=282C34" /></a><br><br><sub>ai auto-fill for linkedin job apps</sub><br><br><a href="https://applyzap.co"><img src="https://img.shields.io/badge/applyzap.co_%E2%86%97-282C34?style=flat-square&labelColor=E5C07B" /></a><br><br></td></tr>
