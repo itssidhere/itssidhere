@@ -1,34 +1,124 @@
 <div align="center">
+<br>
 
-# Hey, I'm Sid
-
-[![Website](https://img.shields.io/badge/heysid.io-000?style=for-the-badge&logo=safari&logoColor=white)](https://heysid.io)
-[![Twitter](https://img.shields.io/badge/@itssidhere-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/itssidhere)
-[![LinkedIn](https://img.shields.io/badge/itssidhere-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itssidhere)
-
-</div>
-
----
-
-I like building things. Based in Edmonton, Canada.
-
-### Things I've built
-
-| Project | What it is |
-|---------|-----------|
-| [Mohalla](https://cluxid.com) | Watch movies/shows together with friends in sync |
-| [ApplyZap](https://applyzap.co) | Chrome extension that auto-fills LinkedIn job applications with AI |
-| [BookTrail](https://booktrail.co) | Public reading timeline for creators |
-| [LogTalon](https://logtalon.com) | Local-first AI log analyzer &mdash; MIT licensed |
-
----
-
-<div align="center">
-
-<img src="https://readme-stats-kwybxzckk-itssidhere.vercel.app/api?username=itssidhere&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true&rank_icon=github" alt="Siddharth's github stats" />
+<a href="https://heysid.io">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5C07B&center=true&vCenter=true&repeat=false&width=435&lines=hey%2C+i'm+sid+%F0%9F%91%8B" alt="hey, i'm sid" />
+</a>
 
 <br>
 
-<img src="https://readme-stats-kwybxzckk-itssidhere.vercel.app/api/top-langs/?username=itssidhere&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+<sub>edmonton, canada &nbsp;&bull;&nbsp; i like building things</sub>
+
+<br><br>
+
+<a href="https://heysid.io"><img src="https://img.shields.io/badge/heysid.io-E5C07B?style=flat-square&logo=safari&logoColor=282C34" alt="website" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/@itssidhere-E5C07B?style=flat-square&logo=x&logoColor=282C34" alt="twitter" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/itssidhere"><img src="https://img.shields.io/badge/itssidhere-E5C07B?style=flat-square&logo=linkedin&logoColor=282C34" alt="linkedin" /></a>
+
+<br><br>
+
+<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=itssidhere&bg_color=282C34&color=ABB2BF&line=E5C07B&point=E06C75&area=true&area_color=E5C07B&hide_border=true" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<br>
+
+<a href="https://cluxid.com">
+<img src="https://img.shields.io/badge/Mohalla-282C34?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<sub>watch movies & shows together with<br>friends in real-time sync</sub>
+
+<br><br>
+
+<a href="https://cluxid.com"><img src="https://img.shields.io/badge/cluxid.com-E5C07B?style=flat-square&logoColor=282C34" /></a>
+
+<br><br>
+
+</td>
+<td align="center" width="50%">
+<br>
+
+<a href="https://applyzap.co">
+<img src="https://img.shields.io/badge/ApplyZap-282C34?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<sub>chrome extension that auto-fills<br>linkedin job apps with AI</sub>
+
+<br><br>
+
+<a href="https://applyzap.co"><img src="https://img.shields.io/badge/applyzap.co-E5C07B?style=flat-square&logoColor=282C34" /></a>
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<br>
+
+<a href="https://booktrail.co">
+<img src="https://img.shields.io/badge/BookTrail-282C34?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<sub>public reading timeline<br>for creators</sub>
+
+<br><br>
+
+<a href="https://booktrail.co"><img src="https://img.shields.io/badge/booktrail.co-E5C07B?style=flat-square&logoColor=282C34" /></a>
+
+<br><br>
+
+</td>
+<td align="center" width="50%">
+<br>
+
+<a href="https://logtalon.com">
+<img src="https://img.shields.io/badge/LogTalon-282C34?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<sub>local-first AI log analyzer<br>MIT licensed</sub>
+
+<br><br>
+
+<a href="https://logtalon.com"><img src="https://img.shields.io/badge/logtalon.com-E5C07B?style=flat-square&logoColor=282C34" /></a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img width="390" src="https://readme-stats-kwybxzckk-itssidhere.vercel.app/api?username=itssidhere&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true&rank_icon=github" alt="stats" />&nbsp;&nbsp;
+<img width="390" src="https://readme-stats-kwybxzckk-itssidhere.vercel.app/api/top-langs/?username=itssidhere&layout=compact&theme=onedark&hide_border=true" alt="languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=itssidhere&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
+
+<br><br>
+
+```
+don't speak unless you can improve the silence
+```
+
+<br>
 
 </div>
