@@ -30,12 +30,4 @@
 </div>
 
 
-<div align="center">
-
-```
-don't speak unless you can improve the silence
-```
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E06C75,50:E5C07B,100:282C34&height=120&section=footer" />
