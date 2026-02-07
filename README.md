@@ -12,7 +12,7 @@
 
 ---
 
-I build product-first software and small, focused companies. I like systems that feel fast, grounded, and a little bit magical — calm, local-first tools that feel instant, and ai workflows that feel human and honest.
+I build product-first software and small, focused companies. I like systems that feel fast, grounded, and a little bit magical. Calm, local-first tools that feel instant, and ai workflows that feel human and honest.
 
 #### tech
 
@@ -31,4 +31,4 @@ I build product-first software and small, focused companies. I like systems that
 
 ---
 
-<sub>if you want to build, collaborate, or just swap ideas — say hi.</sub>
+<sub>if you want to build, collaborate, or just swap ideas, say hi.</sub>
