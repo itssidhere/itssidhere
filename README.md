@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://heysid.io">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=800&color=E5C07B&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=hey%2C+i'm+sid;building+mohalla+%F0%9F%8E%AC;building+applyzap+%E2%9A%A1;building+booktrail+%F0%9F%93%96;building+logtalon+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=800&color=E5C07B&center=true&vCenter=true&repeat=true&width=500&height=45&lines=hey%2C+i'm+sid;building+mohalla+%F0%9F%8E%AC;building+applyzap+%E2%9A%A1;building+booktrail+%F0%9F%93%96;building+logtalon+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,68 +18,12 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=282C34&height=1&section=header" />
-
 <br>
 
 <div align="center">
 <table>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://cluxid.com"><img width="100%" src="https://img.shields.io/badge/MOHALLA-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
-
-<br>
-
-```
-watch movies & shows with friends in sync
-```
-
-<a href="https://cluxid.com"><img src="https://img.shields.io/badge/cluxid.com_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://applyzap.co"><img width="100%" src="https://img.shields.io/badge/APPLYZAP-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
-
-<br>
-
-```
-ai auto-fill for linkedin job apps
-```
-
-<a href="https://applyzap.co"><img src="https://img.shields.io/badge/applyzap.co_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://booktrail.co"><img width="100%" src="https://img.shields.io/badge/BOOKTRAIL-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
-
-<br>
-
-```
-public reading timeline for creators
-```
-
-<a href="https://booktrail.co"><img src="https://img.shields.io/badge/booktrail.co_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://logtalon.com"><img width="100%" src="https://img.shields.io/badge/LOGTALON-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
-
-<br>
-
-```
-local-first ai log analyzer ・ oss
-```
-
-<a href="https://logtalon.com"><img src="https://img.shields.io/badge/logtalon.com_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-</td>
-</tr>
+<tr><td align="center" width="50%"><br><a href="https://cluxid.com"><img src="https://img.shields.io/badge/MOHALLA-282C34?style=for-the-badge" /></a><br><br><sub>watch movies & shows with friends in sync</sub><br><br><a href="https://cluxid.com"><img src="https://img.shields.io/badge/cluxid.com_%E2%86%97-E5C07B?style=flat-square" /></a><br><br></td><td align="center" width="50%"><br><a href="https://applyzap.co"><img src="https://img.shields.io/badge/APPLYZAP-282C34?style=for-the-badge" /></a><br><br><sub>ai auto-fill for linkedin job apps</sub><br><br><a href="https://applyzap.co"><img src="https://img.shields.io/badge/applyzap.co_%E2%86%97-E5C07B?style=flat-square" /></a><br><br></td></tr>
+<tr><td align="center" width="50%"><br><a href="https://booktrail.co"><img src="https://img.shields.io/badge/BOOKTRAIL-282C34?style=for-the-badge" /></a><br><br><sub>public reading timeline for creators</sub><br><br><a href="https://booktrail.co"><img src="https://img.shields.io/badge/booktrail.co_%E2%86%97-E5C07B?style=flat-square" /></a><br><br></td><td align="center" width="50%"><br><a href="https://logtalon.com"><img src="https://img.shields.io/badge/LOGTALON-282C34?style=for-the-badge" /></a><br><br><sub>local-first ai log analyzer &bull; oss</sub><br><br><a href="https://logtalon.com"><img src="https://img.shields.io/badge/logtalon.com_%E2%86%97-E5C07B?style=flat-square" /></a><br><br></td></tr>
 </table>
 </div>
 
