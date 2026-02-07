@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:282C34,50:E5C07B,100:E06C75&height=180&section=header&text=sid&fontSize=50&fontColor=ABB2BF&fontAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:282C34,50:E5C07B,100:E06C75&height=180&section=header&text=sid&fontSize=50&fontColor=E5C07B&fontAlignY=55&animation=twinkling" />
 
 <div align="center">
 
