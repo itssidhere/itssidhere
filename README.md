@@ -1,107 +1,34 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E06C75,50:E5C07B,100:282C34&height=140&section=header" />
-
 <div align="center">
-  <br>
 
-  # `sid`
-  <sub>solopreneur · databases & distributed systems · powerlifting · philosophy · divine in dota 2</sub>
+# hey, i'm sid
 
-  <br><br>
+**solopreneur · distributed systems · powerlifting · philosophy · divine in dota 2**
 
-  <a href="https://heysid.io"><img src="https://img.shields.io/badge/heysid.io-E5C07B?style=flat-square&logo=safari&logoColor=282C34" /></a>&nbsp;
-  <a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/@itssidhere-E5C07B?style=flat-square&logo=x&logoColor=282C34" /></a>&nbsp;
-  <a href="https://linkedin.com/in/itssidhere"><img src="https://img.shields.io/badge/linkedin-E5C07B?style=flat-square&logo=linkedin&logoColor=282C34" /></a>
+[![site](https://img.shields.io/badge/heysid.io-000?style=flat&logo=safari&logoColor=white)](https://heysid.io)&nbsp;&nbsp;
+[![twitter](https://img.shields.io/badge/@itssidhere-000?style=flat&logo=x&logoColor=white)](https://twitter.com/itssidhere)&nbsp;&nbsp;
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/itssidhere)
 
-  <br><br>
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=600&color=E5C07B&center=true&vCenter=true&width=520&lines=I+build+product-first+software.;I+like+fast+systems+and+quiet+magic.;Small+teams%2C+big+leverage." />
+---
 
-  <br><br>
+I build product-first software and small, focused companies. I like systems that feel fast, grounded, and a little bit magical — calm, local-first tools that feel instant, and ai workflows that feel human and honest.
 
+#### tech
+
+<p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,nodejs,python,dotnet,vue,firebase,gcp,docker,mysql,kafka&theme=dark" />
-</div>
+</p>
 
-<br>
+#### projects
 
-### About
-I build product-first software and small, focused companies. I like systems that feel fast, grounded, and a little bit magical.
+| | |
+|---|---|
+| [**MOHALLA**](https://cluxid.com) | watch movies & shows with friends in sync |
+| [**APPLYZAP**](https://applyzap.co) | ai auto-fill for linkedin job apps |
+| [**BOOKTRAIL**](https://booktrail.co) | public reading timeline for creators |
+| [**LOGTALON**](https://logtalon.com) | local-first ai log analyzer · oss |
 
-### Focus
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <br>
-        <strong>Build</strong>
-        <br><br>
-        <sub>calm, local-first tools that feel instant</sub>
-        <br><br>
-      </td>
-      <td align="center" width="33%">
-        <br>
-        <strong>Explore</strong>
-        <br><br>
-        <sub>ai workflows that feel human and honest</sub>
-        <br><br>
-      </td>
-      <td align="center" width="33%">
-        <br>
-        <strong>Train</strong>
-        <br><br>
-        <sub>lift heavy, read deeper, ship weekly</sub>
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-### Projects
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <br>
-        <a href="https://cluxid.com"><img src="https://img.shields.io/badge/%F0%9F%8E%AC_MOHALLA-E06C75?style=for-the-badge&logoColor=white&labelColor=282C34" /></a>
-        <br><br>
-        <sub>watch movies & shows with friends in sync</sub>
-        <br><br>
-        <a href="https://cluxid.com"><img src="https://img.shields.io/badge/cluxid.com_%E2%86%97-282C34?style=flat-square&labelColor=E06C75" /></a>
-        <br><br>
-      </td>
-      <td align="center" width="50%">
-        <br>
-        <a href="https://applyzap.co"><img src="https://img.shields.io/badge/%E2%9A%A1_APPLYZAP-E5C07B?style=for-the-badge&logoColor=white&labelColor=282C34" /></a>
-        <br><br>
-        <sub>ai auto-fill for linkedin job apps</sub>
-        <br><br>
-        <a href="https://applyzap.co"><img src="https://img.shields.io/badge/applyzap.co_%E2%86%97-282C34?style=flat-square&labelColor=E5C07B" /></a>
-        <br><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <br>
-        <a href="https://booktrail.co"><img src="https://img.shields.io/badge/%F0%9F%93%96_BOOKTRAIL-98C379?style=for-the-badge&logoColor=white&labelColor=282C34" /></a>
-        <br><br>
-        <sub>public reading timeline for creators</sub>
-        <br><br>
-        <a href="https://booktrail.co"><img src="https://img.shields.io/badge/booktrail.co_%E2%86%97-282C34?style=flat-square&labelColor=98C379" /></a>
-        <br><br>
-      </td>
-      <td align="center" width="50%">
-        <br>
-        <a href="https://logtalon.com"><img src="https://img.shields.io/badge/%F0%9F%94%8D_LOGTALON-61AFEF?style=for-the-badge&logoColor=white&labelColor=282C34" /></a>
-        <br><br>
-        <sub>local-first ai log analyzer · oss</sub>
-        <br><br>
-        <a href="https://logtalon.com"><img src="https://img.shields.io/badge/logtalon.com_%E2%86%97-282C34?style=flat-square&labelColor=61AFEF" /></a>
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Contact
-If you want to build, collaborate, or just swap ideas, say hi.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E06C75,50:E5C07B,100:282C34&height=120&section=footer" />
+<sub>if you want to build, collaborate, or just swap ideas — say hi.</sub>
