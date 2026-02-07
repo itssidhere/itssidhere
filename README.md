@@ -1,7 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E06C75,50:E5C07B,100:282C34&height=140&section=header" />
+
 <div align="center">
   <br>
 
   # `sid`
+  <sub>solopreneur · databases & distributed systems · powerlifting · philosophy · divine in dota 2</sub>
+
+  <br><br>
 
   <a href="https://heysid.io"><img src="https://img.shields.io/badge/heysid.io-E5C07B?style=flat-square&logo=safari&logoColor=282C34" /></a>&nbsp;
   <a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/@itssidhere-E5C07B?style=flat-square&logo=x&logoColor=282C34" /></a>&nbsp;
@@ -9,11 +14,11 @@
 
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,nodejs,python,dotnet,vue,firebase,gcp,docker,mysql,kafka&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=600&color=E5C07B&center=true&vCenter=true&width=520&lines=I+build+product-first+software.;I+like+fast+systems+and+quiet+magic.;Small+teams%2C+big+leverage." />
 
   <br><br>
 
-  <sub>solopreneur · databases & distributed systems · powerlifting · philosophy · divine in dota 2</sub>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,nodejs,python,dotnet,vue,firebase,gcp,docker,mysql,kafka&theme=dark" />
 </div>
 
 <br>
@@ -21,10 +26,34 @@
 ### About
 I build product-first software and small, focused companies. I like systems that feel fast, grounded, and a little bit magical.
 
-### Now
-- shipping calm, local-first tools
-- exploring ai workflows that feel human
-- lifting heavy and reading deeper
+### Focus
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <br>
+        <strong>Build</strong>
+        <br><br>
+        <sub>calm, local-first tools that feel instant</sub>
+        <br><br>
+      </td>
+      <td align="center" width="33%">
+        <br>
+        <strong>Explore</strong>
+        <br><br>
+        <sub>ai workflows that feel human and honest</sub>
+        <br><br>
+      </td>
+      <td align="center" width="33%">
+        <br>
+        <strong>Train</strong>
+        <br><br>
+        <sub>lift heavy, read deeper, ship weekly</sub>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Projects
 <div align="center">
