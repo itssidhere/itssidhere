@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,nodejs,python,dotnet,vue,firebase,gcp,docker,mysql,clickhouse,kafka,debezium&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,nodejs,python,dotnet,vue,firebase,gcp,docker,mysql,kafka&theme=dark" />
 
 </div>
 
