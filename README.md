@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://heysid.io">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=800&color=E5C07B&center=true&vCenter=true&repeat=true&width=500&height=45&lines=hey%2C+i'm+sid;building+mohalla+%F0%9F%8E%AC;building+applyzap+%E2%9A%A1;building+booktrail+%F0%9F%93%96;building+logtalon+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=800&color=E5C07B&center=true&vCenter=true&repeat=true&width=500&height=60&lines=hey%2C+i'm+sid;building+mohalla+%F0%9F%8E%AC;building+applyzap+%E2%9A%A1;building+booktrail+%F0%9F%93%96;building+logtalon+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
 
 <br>
@@ -33,13 +33,6 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itssidhere&bg_color=282C34&color=ABB2BF&line=E5C07B&point=E06C75&area=true&area_color=E5C07B&hide_border=true&custom_title=%20" />
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itssidhere&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</div>
-
-<br>
 
 <div align="center">
 
