@@ -1,116 +1,108 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:282C34,50:E5C07B,100:E06C75&height=200&section=header&text=&fontSize=0&animation=twinkling" />
+
 <div align="center">
-<br>
 
 <a href="https://heysid.io">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E5C07B&center=true&vCenter=true&repeat=false&width=435&lines=hey%2C+i'm+sid+%F0%9F%91%8B" alt="hey, i'm sid" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=800&color=E5C07B&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=hey%2C+i'm+sid;building+mohalla+%F0%9F%8E%AC;building+applyzap+%E2%9A%A1;building+booktrail+%F0%9F%93%96;building+logtalon+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
 
 <br>
 
-<sub>edmonton, canada &nbsp;&bull;&nbsp; i like building things</sub>
+<a href="https://heysid.io"><img src="https://img.shields.io/badge/%20-heysid.io-E5C07B?style=for-the-badge&logo=safari&logoColor=282C34&labelColor=282C34" /></a>
+<a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/%20-@itssidhere-E5C07B?style=for-the-badge&logo=x&logoColor=282C34&labelColor=282C34" /></a>
+<a href="https://linkedin.com/in/itssidhere"><img src="https://img.shields.io/badge/%20-linkedin-E5C07B?style=for-the-badge&logo=linkedin&logoColor=282C34&labelColor=282C34" /></a>
 
 <br><br>
 
-<a href="https://heysid.io"><img src="https://img.shields.io/badge/heysid.io-E5C07B?style=flat-square&logo=safari&logoColor=282C34" alt="website" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/itssidhere"><img src="https://img.shields.io/badge/@itssidhere-E5C07B?style=flat-square&logo=x&logoColor=282C34" alt="twitter" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/itssidhere"><img src="https://img.shields.io/badge/itssidhere-E5C07B?style=flat-square&logo=linkedin&logoColor=282C34" alt="linkedin" /></a>
-
-<br><br>
-
-<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=itssidhere&bg_color=282C34&color=ABB2BF&line=E5C07B&point=E06C75&area=true&area_color=E5C07B&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,nodejs,python,firebase,gcp,docker&theme=dark" />
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=282C34&height=1&section=header" />
+
 <br>
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
 <td align="center" width="50%">
+
+<a href="https://cluxid.com"><img width="100%" src="https://img.shields.io/badge/MOHALLA-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
+
 <br>
 
-<a href="https://cluxid.com">
-<img src="https://img.shields.io/badge/Mohalla-282C34?style=for-the-badge" />
-</a>
+```
+watch movies & shows with friends in sync
+```
 
-<br><br>
-
-<sub>watch movies & shows together with<br>friends in real-time sync</sub>
-
-<br><br>
-
-<a href="https://cluxid.com"><img src="https://img.shields.io/badge/cluxid.com-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-<br><br>
+<a href="https://cluxid.com"><img src="https://img.shields.io/badge/cluxid.com_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
 
 </td>
 <td align="center" width="50%">
+
+<a href="https://applyzap.co"><img width="100%" src="https://img.shields.io/badge/APPLYZAP-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
+
 <br>
 
-<a href="https://applyzap.co">
-<img src="https://img.shields.io/badge/ApplyZap-282C34?style=for-the-badge" />
-</a>
+```
+ai auto-fill for linkedin job apps
+```
 
-<br><br>
-
-<sub>chrome extension that auto-fills<br>linkedin job apps with AI</sub>
-
-<br><br>
-
-<a href="https://applyzap.co"><img src="https://img.shields.io/badge/applyzap.co-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-<br><br>
+<a href="https://applyzap.co"><img src="https://img.shields.io/badge/applyzap.co_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
+
+<a href="https://booktrail.co"><img width="100%" src="https://img.shields.io/badge/BOOKTRAIL-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
+
 <br>
 
-<a href="https://booktrail.co">
-<img src="https://img.shields.io/badge/BookTrail-282C34?style=for-the-badge" />
-</a>
+```
+public reading timeline for creators
+```
 
-<br><br>
-
-<sub>public reading timeline<br>for creators</sub>
-
-<br><br>
-
-<a href="https://booktrail.co"><img src="https://img.shields.io/badge/booktrail.co-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-<br><br>
+<a href="https://booktrail.co"><img src="https://img.shields.io/badge/booktrail.co_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
 
 </td>
 <td align="center" width="50%">
+
+<a href="https://logtalon.com"><img width="100%" src="https://img.shields.io/badge/LOGTALON-282C34?style=for-the-badge&logoColor=E5C07B" /></a>
+
 <br>
 
-<a href="https://logtalon.com">
-<img src="https://img.shields.io/badge/LogTalon-282C34?style=for-the-badge" />
-</a>
+```
+local-first ai log analyzer ・ oss
+```
 
-<br><br>
-
-<sub>local-first AI log analyzer<br>MIT licensed</sub>
-
-<br><br>
-
-<a href="https://logtalon.com"><img src="https://img.shields.io/badge/logtalon.com-E5C07B?style=flat-square&logoColor=282C34" /></a>
-
-<br><br>
+<a href="https://logtalon.com"><img src="https://img.shields.io/badge/logtalon.com_%E2%86%97-E5C07B?style=flat-square&logoColor=282C34" /></a>
 
 </td>
 </tr>
 </table>
-
-
-<div align="center">
+</div>
 
 <br>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itssidhere&bg_color=282C34&color=ABB2BF&line=E5C07B&point=E06C75&area=true&area_color=E5C07B&hide_border=true&custom_title=%20" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=itssidhere&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10" />
+</div>
+
+<br>
+
+<div align="center">
 
 ```
 don't speak unless you can improve the silence
 ```
 
-<br>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E06C75,50:E5C07B,100:282C34&height=120&section=footer" />
