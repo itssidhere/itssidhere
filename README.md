@@ -10,9 +10,6 @@
 
 </div>
 
----
-
-I build product-first software and small, focused companies. I like systems that feel fast, grounded, and a little bit magical. Calm, local-first tools that feel instant, and ai workflows that feel human and honest.
 
 #### tech
 
